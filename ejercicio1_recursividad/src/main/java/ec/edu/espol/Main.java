@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println(".Ejercicio 1: Palíndromo.");
         System.out.println("Milenaaaaaaaaaaaaaaa");
         System.out.println("Milenaaaa por que estas enojada AAAAAAAAAAAAAAAAAA");
         Scanner sc= new Scanner (System.in);
