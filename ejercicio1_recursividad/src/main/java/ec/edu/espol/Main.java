@@ -6,6 +6,7 @@ public class Main {
         System.out.println(".Ejercicio 1: Palíndromo.");
         System.out.println("Milenaaaaaaaaaaaaaaa");
         System.out.println("Este programa verifica si una palabra es un palíndromo o no, y también invierte un arreglo de cadenas utilizando recursión.");
+        System.out.println("Milenaaaa por que estas enojada AAAAAAAAAAAAAAAAAA");
         Scanner sc= new Scanner (System.in);
         System.out.println("Ingresa una palabra: ");
         boolean respuesta= esRecursivo(sc.nextLine());
