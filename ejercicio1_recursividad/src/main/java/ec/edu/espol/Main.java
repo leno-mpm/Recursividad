@@ -3,11 +3,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-<<<<<<< HEAD
         System.out.println(".Ejercicio 1: Palíndromo.");
-=======
         System.out.println("Milenaaaaaaaaaaaaaaa");
->>>>>>> 0d8723f2e4da355aa49c26b1ebd59d9a1ee70dff
         Scanner sc= new Scanner (System.in);
         System.out.println("Ingresa una palabra: ");
         boolean respuesta= esRecursivo(sc.nextLine());
